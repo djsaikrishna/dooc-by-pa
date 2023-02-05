@@ -20,9 +20,9 @@ from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 
 pbot = Client(
     "bypasserbot",
-    api_id=,
-    api_hash="",
-    bot_token="",
+    api_id=,15882573
+    api_hash="dddd64edfc5326e4a35e448347b83e2d",
+    bot_token="5506649317:AAGwpJgnkBNOKQLCefciDroCPXsPtyYUi_A",
 )
 drivebuzz_crypt = ""
 drivefire_crypt = ""
@@ -30,13 +30,13 @@ jiodrive_crypt = ""
 gadrive_crypt = ""
 kolop_crypt = ""
 katdrive_crypt = ""
-gdtot_crypt = ""
+gdtot_crypt = "NUtOdnFnSnl0VUpScFFkSTNqaDhaeVAxeDViaXp3aHpla3M3L2FhcGNvQT0%3D"
 appdrive_email = ""
 appdrive_password = ""
 hubdrive_crypt = ""
 sharerpw_xsrf_token = ""
 sharerpw_laravel_session = ""
-channel_id = -1001601615641
+channel_id = -1001807232349
 http = AsyncClient(http2=True, timeout=Timeout(10.0))
 try:
     loop = get_event_loop()
